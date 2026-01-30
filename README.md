@@ -1,4 +1,4 @@
-# calculater
+# calculator
 A calculator app which is created by Python , Tkinter library  ( class type , function type , exe type )
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
